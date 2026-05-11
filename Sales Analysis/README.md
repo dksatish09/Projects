@@ -34,6 +34,7 @@ Environment: Jupyter Notebook
 
 ## Recommendations
 Marketing & Engagement: 
+
 -Introduce seasonal discounts during low-performing months (Jan/Feb).
 
 -Implement automated alerts via WhatsApp, Email, and SMS for customer re-engagement.
